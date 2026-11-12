@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morningcrumb.example.com/sitemap.xml
